@@ -1,0 +1,20 @@
+scheme:
+  system: "tinted8"
+  supports:
+    styling-spec: "0.2.0"
+  author: "kannnibal"
+  name: "Ikari01"
+  slug: "ikari01"
+variant: "dark"
+palette:
+  black: "#1d1a2f"
+  red: "#be5e13"
+  green: "#319742"
+  yellow: "#ffbb33"
+  blue: "#61a5ff"
+  magenta: "#ff80f7"
+  cyan: "#3cd3a0"
+  white: "#dac2ff"
+  yellow-dim: "#c79128"
+  orange: "#ee7f2b"
+  gray: "#68578b"
