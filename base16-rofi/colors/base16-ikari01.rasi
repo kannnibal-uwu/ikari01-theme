@@ -1,0 +1,37 @@
+/**
+ * Base16 Ikari-01 ROFI Color theme
+ *
+ * Authors
+ *  Scheme: kannnibal
+ *  Template: Tinted Theming (https://github.com/tinted-theming)
+ */
+
+* {
+    red:                         rgba ( 190, 94, 19, 100 % );
+    blue:                        rgba ( 97, 165, 255, 100 % );
+    lightfg:                     rgba ( 242, 229, 255, 100 % );
+    lightbg:                     rgba ( 52, 36, 85, 100 % );
+    foreground:                  rgba ( 218, 194, 255, 100 % );
+    background:                  rgba ( 29, 26, 47, 100 % );
+    background-color:            rgba ( 29, 26, 47, 0 % );
+    separatorcolor:              @foreground;
+    border-color:                @foreground;
+    selected-normal-foreground:  @lightbg;
+    selected-normal-background:  @lightfg;
+    selected-active-foreground:  @background;
+    selected-active-background:  @blue;
+    selected-urgent-foreground:  @background;
+    selected-urgent-background:  @red;
+    normal-foreground:           @foreground;
+    normal-background:           @background;
+    active-foreground:           @blue;
+    active-background:           @background;
+    urgent-foreground:           @red;
+    urgent-background:           @background;
+    alternate-normal-foreground: @foreground;
+    alternate-normal-background: @lightbg;
+    alternate-active-foreground: @blue;
+    alternate-active-background: @lightbg;
+    alternate-urgent-foreground: @red;
+    alternate-urgent-background: @lightbg;
+}

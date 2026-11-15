@@ -1,0 +1,30 @@
+# Tinted Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Ikari-01 by kannnibal
+
+name: Base16 Ikari-01
+accent: "#61a5ff" # base0D
+cursor: "#dac2ff" # base05
+background: "#1d1a2f" # base00
+foreground: "#dac2ff" # base05
+details: darkerlighter
+
+terminal_colors:
+  normal:
+    black: "#1d1a2f" # base00
+    red: "#be5e13" # base08
+    yellow: "#c79128" # base0A
+    green: "#319742" # base0B
+    cyan: "#3cd3a0" # base0C
+    blue: "#61a5ff" # base0D
+    magenta: "#e14dff" # base0E
+    white: "#dac2ff" # base05
+
+  bright:
+    black: "#5a4984" # base03
+    red: "#be5e13" # base08
+    yellow: "#c79128" # base0A
+    green: "#319742" # base0B
+    cyan: "#3cd3a0" # base0C
+    blue: "#61a5ff" # base0D
+    magenta: "#e14dff" # base0E
+    white: "#e3d1ff" # base07

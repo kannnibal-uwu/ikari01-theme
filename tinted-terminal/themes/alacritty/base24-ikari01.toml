@@ -1,0 +1,58 @@
+# base24 Ikari-01 256 - alacritty color config
+# kannnibal
+
+# Default colors
+[colors.primary]
+background = '0x1d1a2f'
+foreground = '0xdac2ff'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x1d1a2f'
+cursor = '0xdac2ff'
+
+# Normal colors
+[colors.normal]
+black = '0x1d1a2f'
+red = '0xbe5e13'
+green = '0x319742'
+yellow = '0xc79128'
+blue = '0x61a5ff'
+magenta = '0xe14dff'
+cyan = '0x3cd3a0'
+white = '0xdac2ff'
+
+# Bright colors
+[colors.bright]
+black = '0x5a4984'
+red = '0xbe5e13'
+green = '0x319742'
+yellow = '0xc79128'
+blue = '0x61a5ff'
+magenta = '0xe14dff'
+cyan = '0x3cd3a0'
+white = '0xe3d1ff'
+
+[[colors.indexed_colors]]
+index = 16
+color = "0x984d14"
+
+[[colors.indexed_colors]]
+index = 17
+color = "0x4c3b77"
+
+[[colors.indexed_colors]]
+index = 18
+color = "0x342455"
+
+[[colors.indexed_colors]]
+index = 19
+color = "0x3e2c64"
+
+[[colors.indexed_colors]]
+index = 20
+color = "0x68578b"
+
+[[colors.indexed_colors]]
+index = 21
+color = "0xf2e5ff"

@@ -1,0 +1,41 @@
+# Rio Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Ikari-01 by kannnibal
+
+[colors]
+selection-background = '#dac2ff' # base05
+selection-foreground = '#3e2c64' # base02
+
+cursor         = '#dac2ff' # base05
+tabs           = '#342455' # base01
+tabs-active    = '#3e2c64' # base02
+
+background     = '#1d1a2f' # base00
+foreground     = '#dac2ff' # base05
+black          = '#1d1a2f' # base00
+red            = '#be5e13' # base08
+yellow         = '#c79128' # base0A
+green          = '#319742' # base0B
+cyan           = '#3cd3a0' # base0C
+blue           = '#61a5ff' # base0D
+magenta        = '#e14dff' # base0E
+white          = '#dac2ff' # base05
+
+dim-foreground   = '#dac2ff' # base05
+dim-black        = '#342455' # base01
+dim-red          = '#be5e13' # base08
+dim-yellow       = '#c79128' # base0A
+dim-green        = '#319742' # base0B
+dim-cyan         = '#3cd3a0' # base0C
+dim-blue         = '#61a5ff' # base0D
+dim-magenta      = '#e14dff' # base0E
+dim-white        = '#68578b' # base04
+
+light-foreground = '#dac2ff' # base05
+light-black      = '#5a4984' # base03
+light-red        = '#be5e13' # base08
+light-yellow     = '#c79128' # base0A
+light-green      = '#319742' # base0B
+light-cyan       = '#3cd3a0' # base0C
+light-blue       = '#61a5ff' # base0D
+light-magenta    = '#e14dff' # base0E
+light-white      = '#e3d1ff' # base07

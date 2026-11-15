@@ -1,0 +1,43 @@
+# base24 Ikari-01
+# Scheme author: kannnibal
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
+[colors]
+background = "#1d1a2f"
+foreground = "#dac2ff"
+
+cursor_bg = "#dac2ff"
+cursor_border = "#dac2ff"
+cursor_fg = "#1d1a2f"
+
+selection_bg = "#dac2ff"
+selection_fg = "#3e2c64"
+
+ansi = [
+  "#1d1a2f",
+  "#be5e13",
+  "#319742",
+  "#c79128",
+  "#61a5ff",
+  "#e14dff",
+  "#3cd3a0",
+  "#dac2ff"
+]
+brights = [
+  "#5a4984",
+  "#be5e13",
+  "#319742",
+  "#c79128",
+  "#61a5ff",
+  "#e14dff",
+  "#3cd3a0",
+  "#e3d1ff"
+]
+
+[colors.indexed]
+16 = "#984d14"
+17 = "#4c3b77"
+18 = "#342455"
+19 = "#3e2c64"
+20 = "#68578b"
+21 = "#f2e5ff"

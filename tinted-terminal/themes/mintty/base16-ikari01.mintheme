@@ -1,0 +1,27 @@
+# Ikari-01 theme for Mintty
+# Scheme Author: kannnibal
+# Scheme System: base16
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #1d1a2f
+Red         = #be5e13
+Green       = #319742
+Yellow      = #c79128
+Blue        = #61a5ff
+Magenta     = #e14dff
+Cyan        = #3cd3a0
+White       = #dac2ff
+BoldBlack   = #5a4984
+BoldRed     = #be5e13
+BoldGreen   = #319742
+BoldYellow  = #c79128
+BoldBlue    = #61a5ff
+BoldMagenta = #e14dff
+BoldCyan    = #3cd3a0
+BoldWhite   = #e3d1ff
+
+# Background & foreground colors
+BackgroundColour = #1d1a2f
+ForegroundColour = #dac2ff
+CursorColour     = #dac2ff
